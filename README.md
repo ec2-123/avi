@@ -1,2 +1,2 @@
-# C-project
-practice
+# C-project-test
+C-project
