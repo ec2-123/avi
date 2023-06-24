@@ -1,2 +1,2 @@
-# avi
+# C-project
 practice
