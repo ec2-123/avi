@@ -3,7 +3,7 @@ ABC.exe:main.o big2.o fact.o rev.o pali.o even.o
 main.o:main.c
 	gcc -c main
 big2.o:big2.c
-	gcc -c big2.c
+	gcc -c big2
 fact.o:fact.c
 	gcc -c fact.c
 rev.o:rev.c
